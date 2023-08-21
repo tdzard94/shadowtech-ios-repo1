@@ -5,8 +5,8 @@
   "banners": [
     {
         "url": "https://nj174.github.io/assets/repo/Featured/notesfeat.png",
-        "title": "Notes",
-        "package": "com.nj174.notes",
+        "title": "ShadowTech",
+        "package": "com.shadowtech.ios",
         "hideShadow": false
     }
   ]
