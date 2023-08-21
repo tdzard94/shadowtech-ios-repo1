@@ -4,13 +4,13 @@ Version: 0.0.1
 Section: System
 Maintainer: ShadowTech
 Installed-Size: 936
-Depends: PreferenceLoader (>= 2.2.4), zip (>= 2.2), unzip (>= 6.0), cURL (>= 7.0), sqlite3 (>= 3.24), ldid (>= 2.0) | firmware (<< 7.0)
+Depends: preferenceloader (>= 2.2.4), zip (>= 2.2), unzip (>= 6.0), curl (>= 7.0), sqlite3 (>= 3.24), ldid (>= 2.0) | firmware (<< 7.0)
 Filename: ./debians/com.shadowtech.ios_0.0.1_iphoneos-arm64.deb
-Size: 189082
-MD5sum: dea0e4623d9d93962563e794ff4a9f73
-SHA1: 4d2e3f34aed16b0baa1e28831c95514ae52d3350
-SHA256: b0b4092bc689b93de94a67b510a0961eef7b184d3a4e126ae1fe29e3c7ee4bec
-SHA512: cc1d1ac43f35694c64ce82f810b7b04496f57aad783c75a3008ccec167942b62bfb28f63fba876a2f0eed7b0d19bf6af82956f3c3a2500299cac05900f2b5b83
+Size: 189248
+MD5sum: 21b49fab83626375615814dc50f28191
+SHA1: e1e57108b5732e0a246a03925b3c5c1d10a43a6e
+SHA256: 6d0c239372302d031264598942a6d27d002cb6518c6d0311b8e5b9e15d93080c
+SHA512: 6e5d6963f7ba21e6ab3e64a91440a00398e73bbcf635d057a39d352fb446ac94cb388c956f9bd66baaabaea8eaed9922f8a3610fd7624047ead0a49419fa7512
 Description: An awesome tool of some sort!!
 Tag: role::hacker
 Name: shadowios
