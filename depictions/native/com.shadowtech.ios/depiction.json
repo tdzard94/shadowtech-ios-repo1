@@ -8,14 +8,14 @@
 			"views": [
 				{
 					 "class":"DepictionMarkdownView",
-					 "markdown":"# Rootless iOS 14 - 16"
+					 "markdown":"# Auto lead for ios 15 - 16"
 				},
 				{
 					 "class":"DepictionSeparatorView"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Remove app labels on homescreen\n\nNo options to configure"
+					"markdown": "Auto lead for ios 15 - 16"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -26,28 +26,18 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.0",
+					"text": "1.0.1~beta",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released",
-					"text": "4-8-23",
+					"text": "21-08-2023",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Developer",
-					"text": "NJ174",
+					"text": "ShadowTech",
 					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Website",
-					"action": "https://nj174.github.io",
-					"class": "DepictionTableButtonView"
-				},
-				{
-					 "title":"Discord ThePandaKing#5620",
-					 "action":"http://discordapp.com/users/873595891301376030",
-					 "class":"DepictionTableButtonView"
 				}
 			],
 			"class": "DepictionStackView"
