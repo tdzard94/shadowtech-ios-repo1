@@ -19,3 +19,24 @@ Depiction: https://repo.zios.tools/depictions/web/?p=com.shadowtech.ios
 SileoDepiction: https://repo.zios.tools/depictions/native/com.shadowtech.ios/depiction.json
 Author: ShadowTech
 
+Package: com.shadowtech.ios
+Architecture: iphoneos-arm64
+Version: 1.0.2~b1
+Section: System
+Maintainer: ShadowTech
+Installed-Size: 936
+Depends: preferenceloader, zip (>= 2.2), unzip (>= 6.0), curl, sqlite3 (>= 3.24), ldid (>= 2.0) | firmware (<< 7.0)
+Filename: ./debians/com.shadowtech.ios_1.0.2~b1_iphoneos-arm64.deb
+Size: 190682
+MD5sum: 16f51ab4aa136ff6c7433db7e32a8417
+SHA1: 61355e8cda5a48a455f189e21289bc8ae917e3e5
+SHA256: cf0d3ffe956c36e3c9397bb7b3c847e570ed8e69d7ae685b05c7d3d38f4bc0ad
+SHA512: 8025b0a5ee8a1dcea9b34cf615da1038d6f1eb0cd177d471f9d3d0d3c1745a9aa65d22ec8491b5f87d3dcd1c3dc621895c994997b78d409e878179bfac91bbf5
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Name: shadowios
+#Depiction: http://zard.zios.tools/depictions/?p=com.shadowtech.ios
+Depiction: https://repo.zios.tools/depictions/web/?p=com.shadowtech.ios
+SileoDepiction: https://repo.zios.tools/depictions/native/com.shadowtech.ios/depiction.json
+Author: ShadowTech
+
