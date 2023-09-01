@@ -1,38 +1,17 @@
 Package: com.shadowtech.ios
 Architecture: iphoneos-arm64
-Version: 1.0.2
+Version: 1.0.2~b2
 Section: System
 Maintainer: ShadowTech
 Installed-Size: 936
 Depends: preferenceloader, zip (>= 2.2), unzip (>= 6.0), curl, sqlite3 (>= 3.24), ldid (>= 2.0) | firmware (<< 7.0)
-Filename: ./debians/com.shadowtech.ios_1.0.2_iphoneos-arm64.deb
-Size: 189584
-MD5sum: eb7a713ec1721460b9832e0c42d2e4fe
-SHA1: 0f6cf0f35ef53226244ac8635d16ec2e13d1e98e
-SHA256: 9eb11f5dd673336727b4b76ba7be0659b45264e16fa51377811d909e51e5ce58
-SHA512: a83fcc6056374122138e4574edd6dacaf7806b78b020707cef5a72375ad9ec638215db4fec35d245f530e1ec3a88cccb006ed980cd7df7e3c0164f44268d4422
-Description: An awesome tool of some sort!!
-Tag: role::hacker
-Name: shadowios
-#Depiction: http://zard.zios.tools/depictions/?p=com.shadowtech.ios
-Depiction: https://repo.zios.tools/depictions/web/?p=com.shadowtech.ios
-SileoDepiction: https://repo.zios.tools/depictions/native/com.shadowtech.ios/depiction.json
-Author: ShadowTech
-
-Package: com.shadowtech.ios
-Architecture: iphoneos-arm64
-Version: 1.0.2~b1
-Section: System
-Maintainer: ShadowTech
-Installed-Size: 936
-Depends: preferenceloader, zip (>= 2.2), unzip (>= 6.0), curl, sqlite3 (>= 3.24), ldid (>= 2.0) | firmware (<< 7.0)
-Filename: ./debians/com.shadowtech.ios_1.0.2~b1_iphoneos-arm64.deb
-Size: 190682
-MD5sum: 16f51ab4aa136ff6c7433db7e32a8417
-SHA1: 61355e8cda5a48a455f189e21289bc8ae917e3e5
-SHA256: cf0d3ffe956c36e3c9397bb7b3c847e570ed8e69d7ae685b05c7d3d38f4bc0ad
-SHA512: 8025b0a5ee8a1dcea9b34cf615da1038d6f1eb0cd177d471f9d3d0d3c1745a9aa65d22ec8491b5f87d3dcd1c3dc621895c994997b78d409e878179bfac91bbf5
-Description: An awesome tool of some sort!!
+Filename: ./debians/com.shadowtech.ios_1.0.2~b2_iphoneos-arm64.deb
+Size: 190420
+MD5sum: 8c4b5dd517d713035b9b0fbf42711218
+SHA1: d9e6bb0e2ec8d897f5b919a12c65f6448a23bd18
+SHA256: a0afd0572779c16934b0b9ecfc1c361f3a4cc3855e2ddbe19d50652eeef3998e
+SHA512: 1995fc63327026b7a5a40e44839f13ccad8440ea1645e8a8e15fc00ff310d44dcb5b0e2d5ca7002bb7d1c67a83225a3857a99cc46f08fe72450590e474a65645
+Description: ShadowTech ios autolead
 Tag: role::hacker
 Name: shadowios
 #Depiction: http://zard.zios.tools/depictions/?p=com.shadowtech.ios
