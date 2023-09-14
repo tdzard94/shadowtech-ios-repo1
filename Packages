@@ -1,3 +1,24 @@
+Package: com.shadowtech.ios14
+Architecture: iphoneos-arm
+Version: 1.0.2~b3
+Section: System
+Maintainer: ShadowTech
+Installed-Size: 972
+Depends: preferenceloader, zip (>= 2.2), unzip (>= 6.0), curl, sqlite3 (>= 3.24), ldid (>= 2.0) | firmware (<< 7.0)
+Filename: ./debians/com.shadowtech.ios14_1.0.2~b3_iphoneos-arm.deb
+Size: 197564
+MD5sum: 313c8c68df44a4f7313f1ca266d584ae
+SHA1: 18a4b8fe683e9ef1d60baa146e5b55c6e076bbd5
+SHA256: bca1290199bec6befb74052cfb91d26bc5126632fced8ce1d50a798761c81aa1
+SHA512: 8035101f367ebcf18326888b0b27051c9a3fa2bbcd6f980dd275e3f05c11583201c487008ba37477eabbc3733f1c7b8c5756b9736d66acf1c9ac9fc08203b877
+Description: ShadowTech ios autolead
+Tag: role::hacker
+Name: shadowios14
+#Depiction: http://zard.zios.tools/depictions/?p=com.shadowtech.ios
+Depiction: https://repo.zios.tools/depictions/web/?p=com.shadowtech.ios14
+SileoDepiction: https://repo.zios.tools/depictions/native/com.shadowtech.ios14/depiction.json
+Author: ShadowTech
+
 Package: com.shadowtech.ios
 Architecture: iphoneos-arm64
 Version: 1.0.2~b3
