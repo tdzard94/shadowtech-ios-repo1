@@ -1,0 +1,23 @@
+<package>
+	<id>ios.wiycrabs.wclead</id>
+	<name>WiyCrabs</name>
+	<version>1.0.2~b1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>14.7</maxiOS>
+			<otherVersions>supported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Remoter program for ZIOS Tools</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Fix 14 [RRS,ITUNES]</change>
+	</changelog>
+	<links></links>
+</package>
