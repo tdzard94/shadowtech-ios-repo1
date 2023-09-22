@@ -1,16 +1,16 @@
 Package: com.shadowtech.ios14
 Architecture: iphoneos-arm
-Version: 1.0.2~b5
+Version: 1.0.2~b6
 Section: System
 Maintainer: ShadowTech
-Installed-Size: 972
+Installed-Size: 812
 Depends: preferenceloader, zip (>= 2.2), unzip (>= 6.0), curl, sqlite3 (>= 3.24), ldid (>= 2.0) | firmware (<< 7.0)
-Filename: ./debians/com.shadowtech.ios14_1.0.2~b5_iphoneos-arm.deb
-Size: 198010
-MD5sum: a929c5a865d79f7a88cda34571b5a52a
-SHA1: 8737c31c908a39b240027d5a0b734597d8f6ba2a
-SHA256: 20ae5ba7f70fbe41201a683af86a7dcf9fdfd75d2fd5890ee73f8ee137376e50
-SHA512: 3b9664741060385943d9631cacad2d007f6b9a3ddf129d30399977d7ffa3ff4117ca9af9d92b361a284c9bc94e2a139dbd23d43bedd5e01f26a2ad6e42a1acbb
+Filename: ./debians/com.shadowtech.ios14_1.0.2~b6_iphoneos-arm.deb
+Size: 183274
+MD5sum: 2941ac8b8a00c219b60adc15a1494090
+SHA1: 7a999bad2bbcd2a35c17248171869b2b5986bcdf
+SHA256: b334d6cae61f24dd28581b3122b0f2671efe508da96f3f99016a20963afcfdfe
+SHA512: 93e0cebf67e1fdf28dad3b6c0d70627938d7cda0b3a7c08d632bcde8d2913bd96470515afb40549287f5aad8529866236c9be0b92c6aa9db0ef1ef2e6ac7f6b9
 Description: ShadowTech ios autolead
 Tag: role::hacker
 Name: shadowios14
@@ -21,17 +21,17 @@ Author: ShadowTech
 
 Package: com.shadowtech.ios
 Architecture: iphoneos-arm64
-Version: 1.0.2~b5
+Version: 1.0.2~b6
 Section: System
 Maintainer: ShadowTech
 Installed-Size: 952
 Depends: preferenceloader, zip (>= 2.2), unzip (>= 6.0), curl, sqlite3 (>= 3.24), ldid (>= 2.0) | firmware (<< 7.0)
-Filename: ./debians/com.shadowtech.ios_1.0.2~b5_iphoneos-arm64.deb
-Size: 192222
-MD5sum: ac54a1a595417e2b82cf79bdee029920
-SHA1: 66682a54547435996583b65d0da9eaf6a2d6b456
-SHA256: fe36e55c209b168549b770b5ac18b94c0a77c820f6f03ffd8d5861f1a32ea001
-SHA512: 872eb39f4eb9908fdc68d747e417bce5a4fe69aacbdaba09913e79478110c59f4e634227590227a3444b6de31daa1946f5bfb2870bb657fff804727135bc7bc7
+Filename: ./debians/com.shadowtech.ios_1.0.2~b6_iphoneos-arm64.deb
+Size: 192936
+MD5sum: eed6f42eaaa2d35670f0eb069d720027
+SHA1: 2bb3562f121458ca3f2a7733b42135c54d68fffe
+SHA256: e4c0f5205dfbfb9d111a5bd2b25825ee592d21f8eaee1573e685f837bd1d24c9
+SHA512: d1ff47e5ab449ab72cc9befef9b457f879aefb598366b1713a90b2be243fa6ef4e0f6d16ce1803aa11c175bd4dccb31c4f13643e387543a7ecf8a157b192d59b
 Description: ShadowTech ios autolead
 Tag: role::hacker
 Name: shadowios
