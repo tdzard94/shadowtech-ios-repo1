@@ -1,5 +1,5 @@
 {
-	"minVersion": "1.0.2~b8",
+	"minVersion": "1.0.2~b10",
 	"headerImage": "https://nj174.github.io/assets/repo/Banners/RepoHeader.png",
 	"tintColor": "#2a88da",
 	"tabs": [
@@ -31,7 +31,7 @@
 				},
 				{
 					"title": "Released",
-					"text": "10-10-2023",
+					"text": "17-10-2023",
 					"class": "DepictionTableTextView"
 				},
 				{
