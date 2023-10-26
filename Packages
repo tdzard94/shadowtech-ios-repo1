@@ -21,17 +21,17 @@ Author: ShadowTech
 
 Package: com.shadowtech.ios
 Architecture: iphoneos-arm64
-Version: 1.0.2~b10
+Version: 1.0.2~b11
 Section: System
 Maintainer: ShadowTech
-Installed-Size: 984
+Installed-Size: 952
 Depends: preferenceloader, zip (>= 2.2), unzip (>= 6.0), curl, sqlite3 (>= 3.24), ldid (>= 2.0) | firmware (<< 7.0)
-Filename: ./debians/com.shadowtech.ios_1.0.2~b10_iphoneos-arm64.deb
-Size: 199108
-MD5sum: def9b6b8835ccdb248455724af1f57ef
-SHA1: bad1a652d65f83f90e2de428a2af0277bf2006d1
-SHA256: 037425c4eb15ff8ff3c2c40dafd9cdb6dc44f15ebd95a525dfb593b1acd86b85
-SHA512: e18eda1734122b651fe3f37cac1eb450b5d3a0f34e6dcbfa1dee72d2529c693372a32999e0284d087051ca5e88c1039c5b41479df65fbfeb8e759ccca17a5bfd
+Filename: ./debians/com.shadowtech.ios_1.0.2~b11_iphoneos-arm64.deb
+Size: 195324
+MD5sum: 94e5d408c5cd3b0d566867a59245e750
+SHA1: 1f95c91f76bbbb1687720e8f3169388dee32db4e
+SHA256: a91286f435ce58558c24e3a5f0145cc9f95d4d47e811ae0e2e24aa481c1a57ec
+SHA512: 47dc1a4f95ba52177d76362d9541f52ebde3e7361fb109aa39e2d0c6d7c09ce21112eee3a01657e2c1ce4a742f7b8bb41aa76ce9e869c4040179f7d9dee7e1e0
 Description: ShadowTech ios autolead
 Tag: role::hacker
 Name: shadowios
