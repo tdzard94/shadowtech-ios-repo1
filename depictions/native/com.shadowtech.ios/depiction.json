@@ -26,12 +26,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.0.2~b17",
+					"text": "1.0.2~b18",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released",
-					"text": "03-12-2023",
+					"text": "10-12-2023",
 					"class": "DepictionTableTextView"
 				},
 				{
