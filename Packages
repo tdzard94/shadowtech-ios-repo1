@@ -7,10 +7,10 @@ Installed-Size: 980
 Depends: preferenceloader, zip (>= 2.2), unzip (>= 6.0), curl, sqlite3 (>= 3.24), ldid (>= 2.0) | firmware (<< 7.0)
 Filename: ./debians/com.shadowtech.ios14_1.0.2~b19_iphoneos-arm.deb
 Size: 197526
-MD5sum: ed2f59259a933c3636087c91deaa8319
-SHA1: dd461f422ac816041fd77cf3747694f0cc32b1a4
-SHA256: 6f426a977b39eae97698f4a36690c74fdb041afc62350510998dbe499f3f9f98
-SHA512: 8d94dd5d79759c32cdef51528f86fb529313d6325eee90b68677a6a85ab83d00cc8dd4f3bd701c8721c4dc6132b5766737b34766d5403c5ccea42c1d760da812
+MD5sum: 4bd1156932c896a791a9f49e19028b00
+SHA1: 3824da5a5368d52ce6ada7649210cd36ce1beadb
+SHA256: 4f390d0c2094fc9b1cd102271ae8b6c82413e8a62d42056dc72ef28a541f5b8b
+SHA512: fde181653b9888de8bfe85ab4e694780a10a4f3c51b1932d8584c5ff9672b859d8a599ac5bb9d8ba2ff8e37542cd058ccff4080d999cfd02eaac1968a2ce08a9
 Description: ShadowTech ios autolead
 Tag: role::hacker
 Name: shadowios14
