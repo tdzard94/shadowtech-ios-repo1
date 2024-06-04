@@ -55,7 +55,5 @@ SHA1: da921ec81a355f1ed8aba4c949c36b29e287b9e4
 SHA256: 197fc355895701753ed3c6568a47185ec0542a82bb9af21c45a27b9b24c9a522
 SHA512: 871c2906a0333b1070b17e27f4e60fa47497450dcc64b0726a106742b03813ea9e1f8b3698a600571514858b83b804af03aafe0deb022e1ca4ae85b6955d1d6a
 Homepage: https://www.sqlite.org/
-Depiction: https://repo.shadowtech.vip/depictions/web/?p=sqlite3
-SileoDepiction: https://repo.shadowtech.vip/depictions/native/sqlite3/depiction.json
 Description: Command line interface for SQLite 3
 
