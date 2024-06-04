@@ -40,6 +40,23 @@ Depiction: https://repo.shadowtech.vip/depictions/web/?p=com.shadowtech.ios
 SileoDepiction: https://repo.shadowtech.vip/depictions/native/com.shadowtech.ios/depiction.json
 Author: ShadowTech
 
+Package: libsqlite3-1
+Architecture: iphoneos-arm64
+Version: 3.34.1
+Priority: standard
+Section: Libraries
+Maintainer: Procursus Team <support@procurs.us>
+Installed-Size: 980
+Depends: libiosexec1 (>= 1.2.2)
+Filename: ./debians/libsqlite3-1_3.34.1_iphoneos-arm64.deb
+Size: 478658
+MD5sum: a87463836b9c9b4a3a065c915338230f
+SHA1: 6d7ffd25f9c4a52828a2426cc33fde5419ee994c
+SHA256: ee37e3997ba9131113773ddff42568be186ead9282f266570436678083f167aa
+SHA512: 2a28b130f83ccab9baccb9e72b41d34440992706d7245adb6d88ff0d0a450057d32fa96c7b82c562a70f86d791d36070080f93715b8854b6ae086152c63343ad
+Homepage: https://www.sqlite.org/
+Description: SQLite 3 shared library
+
 Package: sqlite3
 Architecture: iphoneos-arm64
 Version: 3.34.1
