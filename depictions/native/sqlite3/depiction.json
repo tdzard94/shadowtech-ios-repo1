@@ -1,0 +1,69 @@
+{
+	"minVersion": "3.34.1",
+	"headerImage": "https://nj174.github.io/assets/repo/Banners/RepoHeader.png",
+	"tintColor": "#2a88da",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					 "class":"DepictionMarkdownView",
+					 "markdown":"# Sqlite3"
+				},
+				{
+					 "class":"DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "# Sqlite3"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Information",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "3.34.1",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Released",
+					"text": "03-06-2024",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "ShadowTech",
+					"class": "DepictionTableTextView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "Changelog",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Dopamine Supported",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 20-20-2024</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

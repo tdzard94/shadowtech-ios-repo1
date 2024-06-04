@@ -25,13 +25,13 @@ Version: 1.0.2~b22
 Section: System
 Maintainer: ShadowTech
 Installed-Size: 8336
-Depends: preferenceloader, zip (>= 2.2), unzip (>= 6.0), curl, sqlite3 (>= 3.24), ldid (>= 2.0) | firmware (<< 7.0)
+Depends: preferenceloader, zip (>= 2.2), unzip (>= 6.0), curl, ldid (>= 2.0) | firmware (<< 7.0)
 Filename: ./debians/com.shadowtech.ios_1.0.2~b22_iphoneos-arm64.deb
-Size: 1962940
-MD5sum: 6f79f3748d297e8a9bfb978f16984b63
-SHA1: 6ed135fbf3c1d73439f2b2448521b07f6e47c1a0
-SHA256: 253ac340cde4370f5ef116667e94e19db1d222c89cb635b0e4aeb5c727426e3f
-SHA512: 099ed3fa3fe7b297724b463145a868ae988f7c4003b10dc080290d68c6acb9d314d612df2af10be97278d9c663e90e71fcfb194b1853604ec4202f13c8ebdae3
+Size: 1962658
+MD5sum: 7ee1e34e8f0c694274fd72fd160dc51c
+SHA1: 40b822f07a237e480e8329de237196fdf6c1bcc8
+SHA256: 45fc68ead1cd309ee249cbf26d2e6a77e31543a2df346ad47e6b211a4c9223ae
+SHA512: f6c0ec23ccf0c71466a860d7a2ce7408e89cc5b19516b61902f213650d67499d0737f5103e97f81ccf558b0841363e230f4caa6e9090080ca91d69a594c0d43f
 Description: ShadowTech ios autolead
 Tag: role::hacker
 Name: shadowios
@@ -39,4 +39,21 @@ Name: shadowios
 Depiction: https://repo.shadowtech.vip/depictions/web/?p=com.shadowtech.ios
 SileoDepiction: https://repo.shadowtech.vip/depictions/native/com.shadowtech.ios/depiction.json
 Author: ShadowTech
+
+Package: sqlite3
+Architecture: iphoneos-arm64
+Version: 3.34.1
+Priority: standard
+Section: Data_Storage
+Maintainer: Procursus Team <support@procurs.us>
+Installed-Size: 316
+Depends: libiosexec1 (>= 1.2.2), libsqlite3-1 (= 3.34.1), libreadline8, libncursesw6
+Filename: ./debians/sqlite3_3.34.1_iphoneos-arm64.deb
+Size: 100428
+MD5sum: 4da0e5dd707b4b227fced034b32079b4
+SHA1: da921ec81a355f1ed8aba4c949c36b29e287b9e4
+SHA256: 197fc355895701753ed3c6568a47185ec0542a82bb9af21c45a27b9b24c9a522
+SHA512: 871c2906a0333b1070b17e27f4e60fa47497450dcc64b0726a106742b03813ea9e1f8b3698a600571514858b83b804af03aafe0deb022e1ca4ae85b6955d1d6a
+Homepage: https://www.sqlite.org/
+Description: Command line interface for SQLite 3
 
