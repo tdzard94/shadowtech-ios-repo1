@@ -26,7 +26,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.0.4",
+					"text": "1.0.2~b25-beta23",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -52,12 +52,12 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Dopamine Supported",
+					"markdown": "\t\n\u2022 Initial Release",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 20-20-2024</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 4-8-23</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
