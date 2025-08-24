@@ -61,46 +61,6 @@ Depiction: https://repo.shadowtech.vip/depictions/web/?p=com.shadowtech.ios
 SileoDepiction: https://repo.shadowtech.vip/depictions/native/com.shadowtech.ios/depiction.json
 Author: ShadowTech
 
-Package: com.shadowtech.ios
-Architecture: iphoneos-arm64
-Version: 1.0.4
-Section: System
-Maintainer: ShadowTech
-Installed-Size: 9344
-Depends: preferenceloader, zip (>= 2.2), unzip (>= 6.0), curl, ldid (>= 2.0), sqlite3 (>= 3.24) | firmware (<< 7.0)
-Filename: ./debians/com.shadowtech.ios_1.0.4_iphoneos-arm64.deb
-Size: 2153156
-MD5sum: a08a201b8f3406ac06292a4dd7071ccb
-SHA1: b4c774321f70ddadfc3119b446a33f81739085d7
-SHA256: a11232b20837dd665f858bc392d3e90aebe01492123f94361074925103f4d720
-SHA512: bb37de14697f0001f17c07abc1eedff4a5f009f63b45ee20daa35bb4f8bc9e10ea333a4429313ee40b500ff1e167ccc8a333f4ac1700fe11507f96e884e46260
-Description: ShadowTech ios autolead
-Tag: role::hacker
-Name: shadowios
-Depiction: https://repo.shadowtech.vip/depictions/web/?p=com.shadowtech.ios
-SileoDepiction: https://repo.shadowtech.vip/depictions/native/com.shadowtech.ios/depiction.json
-Author: ShadowTech
-
-Package: com.shadowtech.shadowiosroothide
-Architecture: iphoneos-arm64e
-Version: 1.0.4
-Section: System
-Maintainer: ShadowTech
-Installed-Size: 8816
-Depends: preferenceloader, zip (>= 2.2), unzip (>= 6.0), curl, ldid (>= 2.0), sqlite3 (>= 3.24)| firmware (<< 7.0)
-Filename: ./debians/com.shadowtech.shadowiosroothide_1.0.4_iphoneos-arm64e.deb
-Size: 2087842
-MD5sum: 61de778dd05b522ddd91332d178d2fdd
-SHA1: d6b607d5d00e40397f3f400d1780463d75040004
-SHA256: b1cc06e59ed153e74ecf69a9925572add3587cc886b47a87328231c80a2bf5c2
-SHA512: 82be697b6bc30099d10d6601c0a33347db7fbbd412529610dbbb9aa67d924af4217702a3f57734d6d8c46cff71346522c9d77b5b9f1da2c2c8c888f70c3846ba
-Description: ShadowTech ios autolead
-Tag: role::hacker
-Name: shadowiosroothide
-Depiction: https://repo.shadowtech.vip/depictions/web/?p=com.shadowtech.shadowiosroothide
-SileoDepiction: https://repo.shadowtech.vip/depictions/native/com.shadowtech.shadowiosroothide/depiction.json
-Author: ShadowTech
-
 Package: libsqlite3-1
 Architecture: iphoneos-arm64
 Version: 3.34.1
