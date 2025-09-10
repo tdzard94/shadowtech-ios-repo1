@@ -81,6 +81,26 @@ Depiction: https://repo.shadowtech.vip/depictions/web/?p=com.shadowtech.ios
 SileoDepiction: https://repo.shadowtech.vip/depictions/native/com.shadowtech.ios/depiction.json
 Author: ShadowTech
 
+Package: com.shadowtech.ios
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: System
+Maintainer: ShadowTech
+Installed-Size: 9364
+Depends: preferenceloader, zip (>= 2.2), unzip (>= 6.0), curl, ldid (>= 2.0), sqlite3 (>= 3.24) | firmware (<< 7.0)
+Filename: ./debians/com.shadowtech.ios_1.0.5_iphoneos-arm64.deb
+Size: 2156036
+MD5sum: 3076e95e67eae4057e88ec4c1afe478a
+SHA1: cbc3b1ee00355098026bc7e6281afd7a7a518e72
+SHA256: b0d3405551c94e0dfc523cf951a20eaec8163e4e65ac08aebf594672dc79f667
+SHA512: 1e1d671679537bbdc5aa16380cbc72bda9250175db546b54621ab3e4a066b193dc3205a4cc7aca61d788a449bae00fda8ba62469c130df1837b74d760c8e8e14
+Description: ShadowTech ios autolead
+Tag: role::hacker
+Name: shadowios
+Depiction: https://repo.shadowtech.vip/depictions/web/?p=com.shadowtech.ios
+SileoDepiction: https://repo.shadowtech.vip/depictions/native/com.shadowtech.ios/depiction.json
+Author: ShadowTech
+
 Package: com.shadowtech.shadowiosroothide
 Architecture: iphoneos-arm64e
 Version: 1.0.4
@@ -94,6 +114,26 @@ MD5sum: 0975312a4f42f6092bbf923c4dc6c6e9
 SHA1: 62c19520ddedd467b0bd08b478723d77fb4ec27d
 SHA256: d3d1c5e9d3af27f936cf19acaa7742e69e5ca9379d8fa0093482fce959b2e950
 SHA512: e375a83188e1846119a8fbf8e3b46d8fd0fc87c495b4667355deee40e5e743b8a0c11a5c22c13ad7335a4938d715f63b56dc8ad5fcdd82ab68d8557706ceb21c
+Description: ShadowTech ios autolead
+Tag: role::hacker
+Name: shadowiosroothide
+Depiction: https://repo.shadowtech.vip/depictions/web/?p=com.shadowtech.shadowiosroothide
+SileoDepiction: https://repo.shadowtech.vip/depictions/native/com.shadowtech.shadowiosroothide/depiction.json
+Author: ShadowTech
+
+Package: com.shadowtech.shadowiosroothide
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Section: System
+Maintainer: ShadowTech
+Installed-Size: 8848
+Depends: preferenceloader, zip (>= 2.2), unzip (>= 6.0), curl, ldid (>= 2.0), sqlite3 (>= 3.24)| firmware (<< 7.0)
+Filename: ./debians/com.shadowtech.shadowiosroothide_1.0.5_iphoneos-arm64e.deb
+Size: 2091786
+MD5sum: 51d69c6b8d68b176a063e1dafc911ec0
+SHA1: b9ed449968ae2f91abc1b5d7007ae481929773a4
+SHA256: 5e8732bc0110d007bdb52c5ed5c16aa6111b1b1c2056066319d34a2b9acee0e0
+SHA512: 95e71d87730beff2b586e06264238ce3cd0eaa015b24f81f77baf51b9b5fd353ee40624d1262aec047dc8347e82838dba9a3bd5eafdcf532e64e13bd8063ee21
 Description: ShadowTech ios autolead
 Tag: role::hacker
 Name: shadowiosroothide
